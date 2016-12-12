@@ -1,0 +1,20 @@
+## Location Inputs ##
+
+LAT    = 19.8260   #Latitude (degrees)
+LON    = -155.4747 #Longitude (degrees)
+TmeZne = -10       #Difference from UTC
+
+## Time Inputs ##
+
+year   = 2017
+month  = 1
+day    = 15
+hour   = 20        #local time (just hour, 24 hour format)
+minute = 30           
+
+##Star Parameter Inputs##
+
+max_X  = 1.2       #Maximum airmass to be included (Defines radius)
+max_g  = 6         #Maximum magnitude (Gaia g mag, close to V)
+
+output = JanuaryList.txt  #Name of output file (include .txt)
